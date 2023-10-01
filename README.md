@@ -58,31 +58,33 @@ user enters -1. Finally, the program prints the count of prime and composite num
 entered.
 <h2>Assignment 3</h2>
 26) Write a program to count the number of each vowel in a sentence.
+
 27) Write a program to read a string and check whether the string is a palindrome or not.
-28) Write a program to get a string from a given string where all occurrences of the last
+    
+29) Write a program to get a string from a given string where all occurrences of the last
 character havebeen changed to ‘*’, except the last character.
 
-29) Write a program to count the occurrences of a word in a given sentence.
-30) Write a program to detect whether two strings are anagrams or not.
+30) Write a program to count the occurrences of a word in a given sentence.
+31) Write a program to detect whether two strings are anagrams or not.
 
-31) Write a program to find the maximum and minimum of a list of numbers without
+32) Write a program to find the maximum and minimum of a list of numbers without
 using built-in functions.
 
-32) Write a program to find the union of two lists.
+33) Write a program to find the union of two lists.
 
-33) Write a program to concatenate two lists using list comprehension.
-34) Write a program to ask the user to enter a file name with its proper extension and the
+34) Write a program to concatenate two lists using list comprehension.
+35) Write a program to ask the user to enter a file name with its proper extension and the
 system will display the file extension only.
-35) Create a list with at least 15 items and remove all duplicate items from that list.
-36) Add the item 7000 after 6000 in the following Python List.
+36) Create a list with at least 15 items and remove all duplicate items from that list.
+37) Add the item 7000 after 6000 in the following Python List.
 Given List: [10, 20, [300, 400, [5000, 6000], 500], 30, 40]
-37) Extend a given nested list by adding the sub list ["h", "i", "j"] in such a way that it will
+38) Extend a given nested list by adding the sub list ["h", "i", "j"] in such a way that it will
 look like the following expected list.
 Given_List: ["a", "b", ["c", ["d", "e", ["f", "g"], "k"], "l"], "m", "n"]
 Expected_List: ['a', 'b', ['c', ['d', 'e', ['f', 'g', 'h', 'i', 'j'], 'k'], 'l'], 'm', 'n']
-38) Write a program to multiply two matrices as nested lists.
+39) Write a program to multiply two matrices as nested lists.
 
-39) Write a program to create a list from two given lists ‘list1’ and ‘list2’ of numbers such
+40) Write a program to create a list from two given lists ‘list1’ and ‘list2’ of numbers such
 that it containsnumbers that are present in ‘list2’ but not in ‘list1’.
 
 40)Write a program to find the distinct pair of numbers whose product is odd from a list of
