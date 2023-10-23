@@ -109,6 +109,13 @@ generate a tuplewith those numbers.
 
 48) Write a program to find the distinct pair of numbers whose product is even from a tuple of integers.
 
+<h2>Assignment 4</h2>
 
+49. Create a module to check if a passed string is a palindrome or not. Write a program to find whether a string is a palindrome or not using this module.
+50. Create a module to check whether a number is a prime or not. Write a program to find the prime number between two limits using this module.
+51. Create a module to find the factorial of a number and import the module from the main program to find the factorial of a given number.
+52. Write a program to find the mean, median, and standard deviation of a list of random numbers between 1 and 10.
+53. Write a program to shuffle elements of a list of random numbers between given ranges.
+54. Write a program to create a list of random numbers using list comprehension.
 
 
