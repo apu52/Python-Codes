@@ -7,6 +7,7 @@ def palin(s):
         print("Not PALINDROME!")
 
 #main code
+
 import Palindrome
 str1 = input("Enter a string : ")
 Palindrome.palin(str1)
