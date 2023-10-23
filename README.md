@@ -1,9 +1,10 @@
 # Python-Codes
 <h2>Assignment 1</h2>
- 1. Write a python program to display a message on the screen as follows.
-We are the students from the dept. of Information Technology.
-We are learning Python.
-It is our odd semester.
+1. Write a python program to display a message on the screen as follows.
+
+   - We are the students from the dept. of Information Technology.
+   -  We are learning Python.
+   - It is our odd semester.
 
 2. Write a python program to convert a temperature in Celsius scale to its equivalent Fahrenheit scale.
 3. Write a python program to calculate the area and perimeter of a circle, a square and a rectangle. Consider all the required information is preexistent.
@@ -57,6 +58,7 @@ Note an Armstrong number is such a number that is equal to the sum of cubes of i
 user enters -1. Finally, the program prints the count of prime and composite numbers
 entered.
 <h2>Assignment 3</h2>
+
 26) Write a program to count the number of each vowel in a sentence.
 
 27) Write a program to read a string and check whether the string is a palindrome or not.
